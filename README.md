@@ -57,8 +57,8 @@ Output Dense Layer: 3 units with a Softmax activation function to output categor
 Clone the repository:
 
 Bash
-git clone https://github.com/wide-shunks-67/sentiment-analysis.git
-cd sentiment-analysis
+git clone https://github.com/wide-shunks-67/Sentiment-Analysis-Model
+cd Sentiment-Analysis-Model
 Install the required dependencies:
 
 Bash
